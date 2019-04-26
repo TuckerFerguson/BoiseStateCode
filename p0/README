@@ -1,0 +1,15 @@
+Project 0: Modern Art
+
+Author: Tucker Ferguson
+Class: CS121 Section 2   
+Semester: Fall 2016
+
+Overview:
+This simple program uses commands such as println to create a modern piece of art.
+
+Compiling and Using:
+Simply run the program to display image.
+
+Discussion:
+I had problems only with compiling the program due to a few textual mishaps such as uppercases and wrong use of brackets.
+

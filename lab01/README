@@ -1,0 +1,74 @@
+Tucker Ferguson 
+CS121L-005
+
+LibGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+
+javHelloWorld.java:1: error: class Helloworld is public, should be declared in a file named H
+elloworld.java
+
+public class Helloworld
+
+       ^
+
+1 error
+
+
+HelloWorld.java:5: error: ';' expected
+
+          System.out.println("Working hard or hardly working")
+
+                                                              ^
+
+1 error
+
+[tferguso@onyx ~]$ 
+
+
+HelloWorld.java:7: error: reached end of file while parsing
+
+}
+
+ ^
+
+1 error
+
+javHelloWorld.java:1: error: class Helloworld is public, should be declared in a file named H
+elloworld.java
+
+public class Helloworld
+
+       ^
+
+1 error
+
+
+HelloWorld.java:5: error: ';' expected
+
+          System.out.println("Working hard or hardly working")
+
+                                                              ^
+
+1 error
+
+[tferguso@onyx ~]$ 
+
+
+HelloWorld.java:7: error: reached end of file while parsing
+
+}
+
+ ^
+
+1 error
+
+HelloWorld.java:5: error: unclosed string literal
+          System.out.println("Working hard or hardly working);
+                             ^
+HelloWorld.java:5: error: ';' expected
+          System.out.println("Working hard or hardly working);
+                                                              ^
+HelloWorld.java:8: error: reached end of file while parsing
+}
+
+
